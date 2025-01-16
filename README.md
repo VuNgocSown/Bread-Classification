@@ -1,1 +1,1 @@
-# Bread-Classification
+The bread classification problem is implemented on a dataset of real-life and internet-sourced images. The problem addresses the classification of four types of bread: baguette, croissant, donut, and egg tart. Image processing, augmentation techniques enhance the model's ability to learn image features, combined with the ResNet18 model using transfer learning to improve classification accuracy.
